@@ -33,7 +33,7 @@ JustChat é uma ferramenta simples que permite que você envie mensagens para n�
 
 ## 🎨 Captura de Tela
 
-<img src="./screenshot.png" alt="Captura de Tela do JustChat" style={{ maxWidth: "600px", borderRadius: "8px" }} />
+![Captura de Tela do JustChat](./screenshot.png)
 
 ---
 
